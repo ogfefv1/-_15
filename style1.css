@@ -1,0 +1,26 @@
+.headerContainer1
+ {
+    width: 100%;
+    border: 1px solid black;
+    padding: 20px;
+    margin: 10px;
+}
+
+.mainContainer1
+ {
+    width: 50%;
+    height: 500px;
+    border: 1px solid black;
+    margin: 20px 25% 20px 25%;
+    padding: 20px;
+}
+
+.footerContainer1
+ {
+    width: 100%;
+    border: 1px solid black;
+    padding: 20px;
+    margin: 10px;
+}
+
+
